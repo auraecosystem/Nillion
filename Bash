@@ -1,1 +1,1 @@
-
+npx @nillion/create-nillion-app
